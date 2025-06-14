@@ -1,0 +1,67 @@
+📊 Excel Data Analysis Project – Sales analytic Dashboard
+As part of my continuous learning and upskilling journey in Excel, I completed a Sales analytic Dashboard Project by following a step-by-step YouTube tutorial by Abhas A. on his channel Data Professionals. 
+
+🔧 Project Overview:
+The goal of this project was to create a professional and interactive Sales Dashboard using Microsoft Excel. This hands-on exercise helped me strengthen my understanding of core Excel functionalities, formulas, and visualization techniques used in real-world data analysis scenarios. The project delivers a fully automated, dynamic excel dashboard that integrate data collection, cleaning, analysis and visualization. It is designed as self-sufficient tool, requiring no future intervention from data professional. Clint can immediately begin using the dashboard to make informed, data-driven decision effortlessly.   
+The objective is to address the following key business questions posted by the clint: 
+•	Which product generate the highest revenue and profit, and what are their associated costs?
+•	What are the trends on financial metrics such as revenue, cost, and profit over time?
+•	How do order statuses (completed, pending, returned) evolve, and what patterns can we identify. 
+
+📌 Key Skills Practiced:
+•	Data Cleaning 
+o	Standardizing Format:  Ensure uniform date, time, and numeric formats for consistency. 
+o	Validating Data: Apply checks for errors, such as valid emails and proper spelling.
+o	Removing duplicates: Remove duplicate entry to maintain data integrity. 
+o	Handling Missing Value: Fill gaps using imputation, interpolation or appropriate removal.
+o	Correcting inconsistencies: Fix variation in spelling, capitalization, or data entry errors. 
+
+•	Data Processing:
+o	Merging Tables:  Combine datasets using keys to create a unified view of the data.  
+o	Creating Calculated Columns: Add new columns derived from formulas and logical operations. 
+o	Applying VLOOKUP: Link related data across tables to enrich the dataset with relevant information. 
+o	Filtering and Sorting: Organize data to focus on relevant subsets and insight.  
+
+•	Data Analysis
+
+o	Descriptive Statistics:
+✓ Perform a comprehensive statistical summary to uncover key patterns and trends in the dataset.
+✓ Identify outliers and distributional properties to ensure data consistency and reliability before further analysis.
+o	Hypothesis Testing Using t-Test:
+Conduct a two-sample t-test to evaluate the statistical significance of differences between two groups or conditions based on the client's business question.
+
+•	Data Collection
+o	Design Form:
+Create the input form, lock non-input areas, and designate writable fields.
+o	Set Up VBA:
+Write a VBA macro to handle form submission and move data to the database.
+o	Auto-Populate & Store Data:
+Automatically calculate fields and store data in the database.
+o	Confirm & Reset:
+Show a confirmation pop-up and reset the form for new data entry.
+
+•	Dashboard
+o	Create KPI in Pivot Table:
+Design the pivot table to calculate key performance indicators (KPIs).
+o	Design Framework:
+Plan the layout and structure of the dashboard on paper, then replicate it in Excel.
+o	Create Charts:
+Add the necessary charts to visualize the KPIs and data insights.
+o	Add Slicers:
+Insert slicers for interactive filtering of data within the dashboard.
+o	Final Check:
+Review the dashboard for accuracy, and functionality.
+
+💡 Key Takeaways:
+•	Data Cleaning: Fix errors, remove duplicates, and prepare datasets. 
+•	Data Processing: Organize and transform data efficiently. 
+•	Data Analysis: Perform calculations and gain insights.
+•	 Data Collection: Create a modern data entry form that stores data automatically. 
+•	Data Visualization: Design professional dashboards and charts.
+
+
+🎓 Full Credit:
+This project was entirely based on the tutorial created by Abhas A. on his YouTube channel Data Professionals. I sincerely appreciate the effort and clarity with which he explains each step in the process. 
+Watch the full video tutorial here:
+https://www.youtube.com/watch?v=UlAoSqR-cDQ&t=10118s 
+
