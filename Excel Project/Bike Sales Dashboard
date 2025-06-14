@@ -1,0 +1,49 @@
+# 📊Excel Data Analysis Project – Bike Sales Dashboard
+
+As part of my continuous learning and upskilling journey in Excel, I completed a Sales Dashboard Project by following a step-by-step YouTube tutorial by Alex Freberg on his channel Alex The Analyst. 
+The project is part of his Excel for Data Analysis playlist and specifically featured in this video.
+
+# 🔧 Project Overview:
+The goal of this project was to create a professional and interactive Sales Dashboard using Microsoft Excel. This hands-on exercise helped me strengthen my understanding of core Excel functionalities, formulas, and visualization techniques used in real-world data analysis scenarios.
+
+# 📌 Key Skills Practiced:
+Data Cleaning and Formatting
+
+Standardizing column names
+
+Removing duplicates and blank rows
+
+Ensuring proper data types for analysis
+
+Data Analysis with Formulas
+
+Using functions such as SUMIFS, COUNTIFS, VLOOKUP, IF, and TEXT
+
+Creating dynamic summaries with helper columns
+
+Pivot Tables & Pivot Charts
+
+Creating pivot tables to summarize sales by region, product, and date
+
+Building interactive charts linked to pivot tables
+
+Dashboard Design
+
+Developing a user-friendly dashboard layout
+
+Incorporating slicers for interactivity (e.g., by region, product type)
+
+Using conditional formatting and charts to enhance visual storytelling
+
+# 💡 Key Takeaways:
+Learned how to structure and clean raw datasets for better analysis.
+
+Gained hands-on experience with dynamic dashboards and interactive tools.
+
+Developed an understanding of how to present business insights effectively using Excel visuals.
+
+# 🎓 Full Credit:
+This project was entirely based on the tutorial created by Alex Freberg on his YouTube channel Alex The Analyst. I sincerely appreciate the effort and clarity with which he explains each step in the process.
+
+Watch the full video tutorial here:
+Excel Dashboard Project Tutorial by Alex The Analyst
