@@ -1,49 +1,33 @@
-# 📊Excel Data Analysis Project – Bike Sales Dashboard
+# 📊 Excel Bike Sales Dashboard Project
 
-As part of my continuous learning and upskilling journey in Excel, I completed a Sales Dashboard Project by following a step-by-step YouTube tutorial by Alex Freberg on his channel Alex The Analyst. 
-The project is part of his Excel for Data Analysis playlist and specifically featured in this video.
+This repository contains a Sales Dashboard project created using **Microsoft Excel** as part of my hands-on learning in data analysis.
 
-# 🔧 Project Overview:
-The goal of this project was to create a professional and interactive Sales Dashboard using Microsoft Excel. This hands-on exercise helped me strengthen my understanding of core Excel functionalities, formulas, and visualization techniques used in real-world data analysis scenarios.
+## 🎯 Objective
+To build a professional, interactive sales dashboard in Excel that summarizes key sales metrics by region, product, and date.
 
-# 📌 Key Skills Practiced:
-Data Cleaning and Formatting
+## 📹 Tutorial Credit
+This project was completed by following a step-by-step tutorial by **Alex Freberg** on his YouTube channel **[Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)**.
 
-Standardizing column names
+🔗 [Watch the video here](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7)
 
-Removing duplicates and blank rows
+## 💼 Skills Practiced
+- Data Cleaning and Formatting
+- Pivot Tables and Pivot Charts
+- Dynamic Dashboards using Slicers
+- Excel formulas: `SUMIFS`, `COUNTIFS`, `VLOOKUP`, `IF`, and more
+- Conditional Formatting and Layout Design
 
-Ensuring proper data types for analysis
+## 🧠 Key Learnings
+- How to structure raw data for dashboarding
+- How to visualize insights using Excel tools
+- How to enhance dashboard interactivity using slicers and conditional visuals
 
-Data Analysis with Formulas
+## 📁 Project Files
+- `sales_data.xlsx` – cleaned sample dataset used
+- `dashboard_screenshot.png` – preview of the dashboard (optional)
+- `README.md` – project description
 
-Using functions such as SUMIFS, COUNTIFS, VLOOKUP, IF, and TEXT
+## 🙏 Acknowledgement
+Full credit to **Alex Freberg** (Alex The Analyst) for the original tutorial and guidance.
 
-Creating dynamic summaries with helper columns
-
-Pivot Tables & Pivot Charts
-
-Creating pivot tables to summarize sales by region, product, and date
-
-Building interactive charts linked to pivot tables
-
-Dashboard Design
-
-Developing a user-friendly dashboard layout
-
-Incorporating slicers for interactivity (e.g., by region, product type)
-
-Using conditional formatting and charts to enhance visual storytelling
-
-# 💡 Key Takeaways:
-Learned how to structure and clean raw datasets for better analysis.
-
-Gained hands-on experience with dynamic dashboards and interactive tools.
-
-Developed an understanding of how to present business insights effectively using Excel visuals.
-
-# 🎓 Full Credit:
-This project was entirely based on the tutorial created by Alex Freberg on his YouTube channel Alex The Analyst. I sincerely appreciate the effort and clarity with which he explains each step in the process.
-
-Watch the full video tutorial here:
-Excel Dashboard Project Tutorial by Alex The Analyst
+---
