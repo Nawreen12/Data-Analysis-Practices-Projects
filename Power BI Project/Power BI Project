@@ -1,0 +1,41 @@
+
+📊 Power BI Data Analysis Project – Data Professional Survey Breakdown
+As part of my continuous learning and upskilling journey in Data analysis, I completed a Power BI Data Analysis Project – Data Professional Survey Breakdown by following a step-by-step YouTube tutorial by Alex Freberg on his channel Alex The Analyst.
+
+
+## 🚀 Project Overview
+This Power BI project transcribes a real-world business intelligence scenario. The aim is to demonstrate the full end-to-end BI workflow from raw data import to delivering a fully interactive and insightful dashboard.
+
+---## 🛠️ Key skills Practiced:
+
+- **Data Preparation**:
+  - Connected and cleaned multiple data sources using Power Query
+  - Merged tables, filtered nulls, fixed data types
+
+- **Data Modelling**:
+  - Built a relational model using the **star schema**
+  - Created relationships between dimension and fact tables
+  - Added calculated columns and measures using **DAX**
+
+- **Data Visualization**:
+  - Designed a visually appealing and interactive dashboard
+  - Used visuals such as:
+    - Bar and column charts
+    - Line graphs
+    - KPIs
+    - Slicers and filters
+    - Drill-through and bookmarks for interactivity
+
+
+## 🎯 Key Learning Outcomes
+
+- Mastered Power Query for cleaning and transforming data
+- Applied best practices for building a data model
+- Wrote DAX functions for calculated fields and KPIs
+- Created a polished, interactive Power BI dashboard for business insights
+
+🎓 Full Credit:
+This project was entirely based on the tutorial created by Alex Freberg on his YouTube channel Alex The Analyst. I sincerely appreciate the effort and clarity with which he explains each step in the process. 
+Watch the full video tutorial here: 
+https://www.youtube.com/watch?v=pixlHHe_lNQ 
+
