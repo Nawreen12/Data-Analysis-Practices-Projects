@@ -1,4 +1,4 @@
-# Data-Analysis-Practices-Projects
+# Data-Analysis-Practice-Projects
 
 # Welcome to My Collection of Practice Projects
 
