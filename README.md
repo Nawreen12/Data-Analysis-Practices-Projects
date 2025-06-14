@@ -11,7 +11,7 @@ Each project includes a credit section with a link to the original tutorial to a
 # Excel Projects:
 ***Bike Sales Dashboard
 
-***SALES ANALYTICS DASHBOARD 
+***Sales Analytic Dashboard
 # PowerBI Project
 ****Data Professional Survey Breakdown
 
